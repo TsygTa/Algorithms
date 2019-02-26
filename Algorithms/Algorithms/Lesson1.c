@@ -7,3 +7,16 @@
 //
 
 #include "Lesson1.h"
+
+//14.Автоморфные числа
+
+void getAutomorphicNumbers(void) {
+    
+    int N=0;
+    
+    while(N != -1) {
+        printf("Input number or -1 to exit:");
+        scanf("%d", &N);
+        
+    }
+}
